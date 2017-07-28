@@ -123,3 +123,4 @@ You can feed Sparklint an event log file to playback activities.
 - Supports breaking down core usage by FAIR scheduler pool
  
  
+ 
