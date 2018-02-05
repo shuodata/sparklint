@@ -95,3 +95,4 @@ trait AdhocServer extends RoutingMap with Logging {
     textResponse.withContentType(Some(`Content-Type`(`text/html`)))
   }
 }
+         

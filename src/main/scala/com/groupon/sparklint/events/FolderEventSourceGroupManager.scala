@@ -52,3 +52,4 @@ class FolderEventSourceGroupManager(folder: File) extends GenericEventSourceGrou
     es
   })
 }
+   

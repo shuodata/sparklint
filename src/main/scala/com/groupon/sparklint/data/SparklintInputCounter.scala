@@ -34,3 +34,4 @@ class SparklintInputCounter(_bytesRead: StatCounter = StatCounter(),
 
   def recordsRead: StatCounter = _recordsRead.copy()
 }
+       

@@ -29,3 +29,4 @@ case class Interval(minimum: Long, maximum: Long) {
 
   def length: Long = maximum - minimum
 }
+    

@@ -62,3 +62,4 @@ class HistoryServerEventSourceGroupManager(api: HistoryServerApi) extends Generi
     }
   }
 }
+      

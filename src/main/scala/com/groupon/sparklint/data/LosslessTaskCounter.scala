@@ -93,3 +93,4 @@ class LosslessTaskCounter extends SparklintTaskCounter {
     this
   }
 }
+      

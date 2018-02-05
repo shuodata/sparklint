@@ -35,3 +35,4 @@ class SparklintListenerTest extends FlatSpec with BeforeAndAfterEach with Matche
     listener = new SparklintListener(conf)
   }
 }
+       

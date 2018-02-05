@@ -66,3 +66,4 @@ class Parser(useBigDecimalForDouble: Boolean, useBigIntForLong: Boolean) extends
         }
     }
 }
+       

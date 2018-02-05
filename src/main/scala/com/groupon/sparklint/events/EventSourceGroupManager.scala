@@ -44,3 +44,4 @@ trait EventSourceGroupManager {
   def containsEventSources(uuid: String): Boolean
 
 }
+   

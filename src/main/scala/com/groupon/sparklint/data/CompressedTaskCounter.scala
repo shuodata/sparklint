@@ -71,3 +71,4 @@ class CompressedTaskCounter(_outputMetrics: SparklintOutputCounter = new Sparkli
     this
   }
 }
+   

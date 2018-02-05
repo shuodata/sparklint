@@ -25,3 +25,4 @@ case class UnrecognizedLogFileException(filename: String, reason: Option[String]
     s"$filename can not be recognized as a spark log file.${reason.map(r => s" Reason: $r.").getOrElse("")}"
   }
 }
+     

@@ -32,3 +32,4 @@ case class SparklintTaskMetrics(outputMetrics: SparklintOutputMetrics,
                                 resultSize: Long,
                                 executorRunTime: Long
                                )
+     

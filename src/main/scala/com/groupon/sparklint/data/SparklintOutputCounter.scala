@@ -35,3 +35,4 @@ class SparklintOutputCounter(_recordsWritten: StatCounter = StatCounter(),
   def bytesWritten: StatCounter = _bytesWritten.copy()
 }
 
+       

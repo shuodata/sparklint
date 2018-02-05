@@ -59,3 +59,4 @@ class ListenerEventSource(appId: String, appName: String) extends SparkFirehoseL
     }
   }
 }
+     

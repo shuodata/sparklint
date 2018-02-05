@@ -46,3 +46,4 @@ trait SparklintStateLike {
 
   def coreUsageByPool: Map[Symbol, MetricsSink]
 }
+     

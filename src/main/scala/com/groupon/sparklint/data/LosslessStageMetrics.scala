@@ -35,3 +35,4 @@ case class LosslessStageMetrics(losslessMetricsRepo: Map[(TaskLocality, Symbol),
 object LosslessStageMetrics {
   def empty: LosslessStageMetrics = new LosslessStageMetrics(Map.empty)
 }
+    
