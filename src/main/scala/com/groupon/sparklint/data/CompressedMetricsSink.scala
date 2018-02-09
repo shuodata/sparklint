@@ -136,4 +136,4 @@ object CompressedMetricsSink {
     new CompressedMetricsSink(1, None, originTime, Array.fill(size)(0L))
   }
 }
-      
+           
