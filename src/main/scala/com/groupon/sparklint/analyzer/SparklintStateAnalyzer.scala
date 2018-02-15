@@ -165,4 +165,4 @@ class SparklintStateAnalyzer(val meta: EventSourceMeta, val state: SparklintStat
     sink
   }
 }
-                  
+                   

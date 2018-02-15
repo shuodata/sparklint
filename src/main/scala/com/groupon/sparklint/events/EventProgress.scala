@@ -50,4 +50,4 @@ class EventProgress(var count: Int, var started: Int, var complete: Int, val act
 object EventProgress {
   def empty(): EventProgress = new EventProgress(0, 0, 0, mutable.Set.empty)
 }
-                       
+                          
