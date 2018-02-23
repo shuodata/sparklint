@@ -37,4 +37,4 @@ object LosslessState {
     new LosslessState(Map.empty, Map.empty, Map.empty, Map.empty, Map.empty, Map.empty, None, None, 0L)
   }
 }
-                                      
+                                         
