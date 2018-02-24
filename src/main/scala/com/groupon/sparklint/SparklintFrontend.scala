@@ -45,4 +45,4 @@ class SparklintFrontend(backend: SparklintBackend) {
     UIEventSourceNavigation(backend).mkString("\n")
   }
 }
-                                     
+                                      
