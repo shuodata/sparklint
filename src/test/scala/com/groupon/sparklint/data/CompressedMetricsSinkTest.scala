@@ -113,4 +113,4 @@ class CompressedMetricsSinkTest extends FlatSpec with Matchers {
     testSink.convertToUsageDistribution shouldBe Map(0 -> 4, 5 -> 5, 1 -> 12, 2 -> 5, 3 -> 5, 4 -> 5)
   }
 }
-                                        
+                                           
