@@ -26,4 +26,4 @@ import org.apache.spark.scheduler.SparkListenerLogStart
   */
 class SparkListenerLogStartShim(sourceEvent: SparkListenerLogStart)
   extends SparkListenerLogStart(sourceEvent.sparkVersion)
-                                                     
+                                                         

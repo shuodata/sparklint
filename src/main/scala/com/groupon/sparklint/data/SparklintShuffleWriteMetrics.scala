@@ -23,4 +23,4 @@ package com.groupon.sparklint.data
 case class SparklintShuffleWriteMetrics(shuffleBytesWritten: Long = 0L,
                                         shuffleRecordsWritten: Long = 0L,
                                         shuffleWriteTime: Long = 0L)
-                                                     
+                                                          
