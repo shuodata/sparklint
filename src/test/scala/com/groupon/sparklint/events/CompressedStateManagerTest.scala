@@ -110,4 +110,4 @@ class CompressedStateManagerTest extends FlatSpec with Matchers with BeforeAndAf
     actual.firstTaskAt shouldBe expected.firstTaskAt
   }
 }
-                                                        
+                                                           
