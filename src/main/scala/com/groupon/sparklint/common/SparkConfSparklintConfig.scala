@@ -25,4 +25,4 @@ import org.apache.spark.SparkConf
 class SparkConfSparklintConfig(conf: SparkConf) extends SparklintConfig {
   override def port: Int = conf.get("sparklint.port", defaultPort.toString).toInt
 }
-                                                          
+                                                             
