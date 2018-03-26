@@ -38,4 +38,4 @@ case class EventSourceMeta(appId: Option[String],
     endTime = Some(event.time)
   }
 }
-                                                                          
+                                                                                 
