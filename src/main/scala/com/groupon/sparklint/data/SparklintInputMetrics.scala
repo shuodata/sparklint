@@ -22,4 +22,4 @@ package com.groupon.sparklint.data
   */
 case class SparklintInputMetrics(bytesRead: Long = 0L,
                                  recordsRead: Long = 0L)
-                                                                   
+                                                                      
