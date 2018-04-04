@@ -42,4 +42,4 @@ case class CoreUsage(time: Long, allocated: Option[Double], byLocality: Map[Task
     pool.name -> JDouble(duration)
   }).toSeq: _*)
 }
-                                                                                                  
+                                                                                                    
