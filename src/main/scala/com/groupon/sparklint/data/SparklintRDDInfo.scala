@@ -21,4 +21,4 @@ package com.groupon.sparklint.data
   * @since 8/16/16.
   */
 case class SparklintRDDInfo()
-                                                                                       
+                                                                                           
