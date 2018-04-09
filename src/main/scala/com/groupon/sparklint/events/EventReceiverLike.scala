@@ -208,4 +208,4 @@ trait EventReceiverLike {
 
   protected def unEndApp(event: SparkListenerApplicationEnd): Unit = {}
 }
-                                                                                                        
+                                                                                                         
