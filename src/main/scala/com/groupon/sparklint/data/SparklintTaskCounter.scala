@@ -48,4 +48,4 @@ trait SparklintTaskCounter {
 
   def merge(taskId: Long, metrics: SparklintTaskMetrics): SparklintTaskCounter
 }
-                                                                                                
+                                                                                                 
