@@ -195,4 +195,4 @@ class CompressedStateManager(metricsBuckets: Int = 1000) extends EventStateManag
       lastUpdatedAt = event.time)
   }
 }
-                                                                                                              
+                                                                                                                
