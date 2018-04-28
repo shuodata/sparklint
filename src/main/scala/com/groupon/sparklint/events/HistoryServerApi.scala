@@ -106,4 +106,4 @@ case class ApplicationAttemptInfo(attemptId: Option[String],
   def getEndTimeEpoch: Long = endTime.getTime
 }
 
-                                                                                                                        
+                                                                                                                                           
