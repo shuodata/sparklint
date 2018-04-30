@@ -56,4 +56,4 @@ class HistoryServerApiTest extends FlatSpec with Matchers with BeforeAndAfterAll
     mockServer.stopServer()
   }
 }
-                                                                                                                       
+                                                                                                                           
