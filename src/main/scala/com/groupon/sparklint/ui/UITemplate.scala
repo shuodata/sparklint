@@ -78,4 +78,4 @@ trait UITemplate {
 
   protected def content: Seq[Node] = Seq.empty
 }
-                                                                                                                                   
+                                                                                                                                        
