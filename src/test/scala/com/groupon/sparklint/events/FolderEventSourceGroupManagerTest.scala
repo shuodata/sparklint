@@ -37,4 +37,4 @@ class FolderEventSourceGroupManagerTest extends FlatSpec with Matchers {
     }
   }
 }
-                                                                                                                                          
+                                                                                                                                                    
