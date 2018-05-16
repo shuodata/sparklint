@@ -153,4 +153,4 @@ object MetricsSink {
     new CompressedMetricsSink(maxResolution, dataInterval, origin, mergedStorage.toArray)
   }
 }
-                                                                                                                                                        
+                                                                                                                                                            
