@@ -96,4 +96,4 @@ object UIEventSourceNavigation {
 
   private def uniqueId(appId: String, idType: String) = s"$appId-$idType"
 }
-                                                                                                                                                                        
+                                                                                                                                                                          
