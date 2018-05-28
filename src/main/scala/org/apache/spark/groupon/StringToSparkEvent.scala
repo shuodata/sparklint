@@ -42,4 +42,4 @@ object StringToSparkEvent {
 
   def as[T <: SparkListenerEvent](line: String): T = JsonProtocol.sparkEventFromJson(parse(line)).asInstanceOf[T]
 }
-                                                                                                                                                                          
+                                                                                                                                                                           

@@ -49,4 +49,4 @@ class SparklintListener(appId: String, appName: String, config: SparklintConfig)
   Future(liveEventSource.start())
   sparklint.startServer()
 }
-                                                                                                                                                                               
+                                                                                                                                                                                 
