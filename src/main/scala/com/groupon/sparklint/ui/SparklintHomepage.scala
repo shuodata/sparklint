@@ -318,4 +318,4 @@ class SparklintHomepage extends UITemplate {
     <script src="/static/js/sparklintHomepage.js"></script>
   )
 }
-                                                                                                                                                                                         
+                                                                                                                                                                                           
