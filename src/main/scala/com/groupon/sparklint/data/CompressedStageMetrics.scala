@@ -35,4 +35,4 @@ case class CompressedStageMetrics(compressedMetricsRepo: Map[(TaskLocality, Symb
 object CompressedStageMetrics {
   def empty: CompressedStageMetrics = new CompressedStageMetrics(Map.empty)
 }
-                                                                                                                                                                                                    
+                                                                                                                                                                                                       

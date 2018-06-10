@@ -51,4 +51,4 @@ object SparklintServer extends Logging with OptParse {
     Await.ready(p.future, Duration.Inf)
   }
 }
-                                                                                                                                                                                              
+                                                                                                                                                                                                  
