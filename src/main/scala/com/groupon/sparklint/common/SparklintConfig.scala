@@ -26,4 +26,4 @@ trait SparklintConfig {
   def port: Int
 
 }
-                                                                                                                                                                                      
+                                                                                                                                                                                        
