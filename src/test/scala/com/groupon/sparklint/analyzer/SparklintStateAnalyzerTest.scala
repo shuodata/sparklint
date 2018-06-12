@@ -108,4 +108,4 @@ class SparklintStateAnalyzerTest extends FlatSpec with Matchers with BeforeAndAf
     actual.metricsRepo should contain key (NODE_LOCAL -> 'ResultTask)
   }
 }
-                                                                                                                                                                                                     
+                                                                                                                                                                                                       
