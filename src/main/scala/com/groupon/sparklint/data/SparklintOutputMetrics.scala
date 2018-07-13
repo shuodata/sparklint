@@ -23,4 +23,4 @@ package com.groupon.sparklint.data
 case class SparklintOutputMetrics(recordsWritten: Long = 0L,
                                   bytesWritten: Long = 0L)
 
-                                                                                                                                                                                                  
+                                                                                                                                                                                                                                             

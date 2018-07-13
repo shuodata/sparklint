@@ -26,4 +26,4 @@ trait EventProgressTrackerLike {
   val stageProgress: EventProgress
   val jobProgress: EventProgress
 }
-                                                                                                                                                                                         
+                                                                                                                                                                                                                             
