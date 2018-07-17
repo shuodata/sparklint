@@ -292,4 +292,4 @@ object SparklintBackend {
       ("has_previous" -> eventSource.hasPrevious)
   }
 }
-                                                                                                                                                                                                                          
+                                                                                                                                                                                                                             
