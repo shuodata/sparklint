@@ -38,4 +38,4 @@ class MockHistoryServer(port: Int) extends AdhocServer {
   registerService("", mockService)
 }
 
-                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                            

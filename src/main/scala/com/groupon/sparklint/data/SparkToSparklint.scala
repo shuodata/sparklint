@@ -55,4 +55,4 @@ object SparkToSparklint {
     SparklintTaskInfo(taskInfo.taskId, taskInfo.executorId, taskInfo.index, taskInfo.attemptNumber, taskInfo.launchTime, Symbol(taskInfo.taskLocality.toString), taskInfo.speculative)
   }
 }
-                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                               

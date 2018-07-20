@@ -36,4 +36,4 @@ class Sparklint(config: SparklintConfig) extends AdhocServer
   override def DEFAULT_PORT: Int = config.defaultPort
 
 }
-                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                
