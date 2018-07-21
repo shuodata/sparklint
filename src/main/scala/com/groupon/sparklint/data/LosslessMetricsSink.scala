@@ -104,4 +104,4 @@ class LosslessMetricsSink(val dataRange: Option[Interval],
 object LosslessMetricsSink {
   def empty(originTime: Long, numBuckets: Int): LosslessMetricsSink = new LosslessMetricsSink(None, numBuckets, originTime, Map.empty)
 }
-                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                   

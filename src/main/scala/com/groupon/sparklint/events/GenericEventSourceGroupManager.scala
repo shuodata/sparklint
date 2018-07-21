@@ -48,4 +48,4 @@ class GenericEventSourceGroupManager(override val name: String, override val clo
 
   override def eventSources: Seq[EventSource] = eventSourceMap.values.toList
 }
-                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                               
