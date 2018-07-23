@@ -32,4 +32,4 @@ trait SparklintStageMetrics {
 
   def merge(taskId: Long, taskType: Symbol, locality: TaskLocality, metrics: SparklintTaskMetrics): SparklintStageMetrics
 }
-                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                           

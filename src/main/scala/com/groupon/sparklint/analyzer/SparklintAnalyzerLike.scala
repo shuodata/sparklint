@@ -124,4 +124,4 @@ trait SparklintAnalyzerLike {
     */
   def getRDDReferencedMoreThan(times: Int): Option[Seq[SparklintRDDInfo]]
 }
-                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                               
