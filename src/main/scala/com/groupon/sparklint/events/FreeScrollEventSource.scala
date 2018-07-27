@@ -45,4 +45,4 @@ trait FreeScrollEventSource extends EventSource {
 
   def rewindTasks(count: Int): Unit
 }
-                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                   
