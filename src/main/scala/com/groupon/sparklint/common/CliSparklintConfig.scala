@@ -68,4 +68,4 @@ case class CliSparklintConfig(exitOnError: Boolean = true) extends SparklintConf
     this
   }
 }
-                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                   

@@ -48,4 +48,4 @@ case object Stages extends EventType(EventType.EVENTS)
 
 case object Jobs extends EventType(EventType.EVENTS)
 
-                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                      
