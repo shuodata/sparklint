@@ -45,4 +45,4 @@ case class ScheduledTask[T](name: String, fn: () => Unit,
     case Failure(ex) => logger.logError(s"Execution of $name failed with exception.", ex)
   }
 }
-                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                   
