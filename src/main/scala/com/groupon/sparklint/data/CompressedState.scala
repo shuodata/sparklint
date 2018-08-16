@@ -35,4 +35,4 @@ case class CompressedState(coreUsageByLocality: Map[TaskLocality, CompressedMetr
 object CompressedState {
   def empty: CompressedState = new CompressedState(Map.empty, Map.empty, Map.empty, Map.empty, Map.empty, Map.empty, None, None, 0L)
 }
-                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                       
