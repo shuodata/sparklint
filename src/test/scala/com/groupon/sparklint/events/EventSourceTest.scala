@@ -53,4 +53,4 @@ class EventSourceTest extends FlatSpec with Matchers {
     es.appMeta shouldBe EventSourceMeta(Some("application_1489705648216_1600"), None, "SEM_Feed_Generator", Some("1.6.1"), 1490175603867L)
   }
 }
-                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                   

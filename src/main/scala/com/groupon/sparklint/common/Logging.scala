@@ -60,4 +60,4 @@ trait Logging {
     log.trace(message)
   }
 }
-                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                       
