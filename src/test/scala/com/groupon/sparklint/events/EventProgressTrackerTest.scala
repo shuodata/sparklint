@@ -286,4 +286,4 @@ class EventProgressTest extends FlatSpec with Matchers {
   }
 
 }
-                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                 
