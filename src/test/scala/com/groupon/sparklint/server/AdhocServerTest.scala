@@ -108,4 +108,4 @@ class AdhocServerTest extends FlatSpec with BeforeAndAfterAll with Matchers {
     client = PooledHttp1Client()
   }
 }
-                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                           

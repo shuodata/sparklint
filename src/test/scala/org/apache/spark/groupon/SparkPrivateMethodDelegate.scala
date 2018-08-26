@@ -28,4 +28,4 @@ object SparkPrivateMethodDelegate {
   def sparkTaskMetrics(): TaskMetrics = new TaskMetrics
 
 }
-                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                   
