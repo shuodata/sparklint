@@ -194,4 +194,4 @@ class LosslessStateManager(metricsBuckets: Int = 1000) extends EventStateManager
       lastUpdatedAt = event.time)
   }
 }
-                                                                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                        
