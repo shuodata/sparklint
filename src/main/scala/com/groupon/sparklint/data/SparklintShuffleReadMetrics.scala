@@ -26,4 +26,4 @@ case class SparklintShuffleReadMetrics(fetchWaitTime: Long = 0L,
                                        recordsRead: Long = 0L,
                                        remoteBlocksFetched: Long = 0L,
                                        remoteBytesRead: Long = 0L)
-                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                            
