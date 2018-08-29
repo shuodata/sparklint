@@ -36,4 +36,4 @@ trait StaticFileService {
       StaticFile.fromResource(path.toString, Some(req)).fold(NotFound())(Task.now)
   }
 }
-                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                   
