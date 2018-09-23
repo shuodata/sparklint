@@ -34,4 +34,4 @@ trait HeartBeatService {
       Ok("OK")
   }
 }
-                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                           
